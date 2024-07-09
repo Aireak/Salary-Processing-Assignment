@@ -13,7 +13,7 @@ This project demonstrates data processing, error handling, and file handling usi
 2. Ensure the necessary R packages are installed.
 
 ## Files
-- Total.csv: Provided salary data.
+- Total.csv.zip: Provided salary data.
 - Salary_Function.ipynb: Jupyter Notebook containing the Python code.
 - R_script_to_unzip.R: R script to unzip and display the data.
-- Employee_Profile.zip: Zipped folder containing employee details.
+
